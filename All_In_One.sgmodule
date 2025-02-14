@@ -1,5 +1,5 @@
 #!name=𝐀𝐥𝐥 𝐈𝐧 𝐎𝐧𝐞
-#!desc=𝐁𝐲: Hải Yến
+#!desc=𝐁𝐲: Hai Yen
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
